@@ -5,3 +5,6 @@ LINK REQUISICAO - PARA SP: https://api.openweathermap.org/data/2.5/weather?q=sao
 
 LINK ICONE: https://openweathermap.org/img/wn/02d@2x.png
 
+
+Quando o usuario pesquisa ele retoma a requisição e volta a resposta com as informações climaticas do local digitado.
+
