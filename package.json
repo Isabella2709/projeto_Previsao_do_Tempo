@@ -1,0 +1,15 @@
+{
+  "name": "projeto_previsao_do_tempo",
+  "version": "1.0.0",
+  "description": "OPEN WETHER API CONDIÇÕES CLIMATICAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
